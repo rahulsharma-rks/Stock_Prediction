@@ -1,0 +1,10 @@
+1.Create Account in: https://www.tiingo.com/
+2.Navigate To API section
+3.Click on "Take me to the Documentaion"
+4.Search for "Authentication"
+5.Under "Authentication" you will get: Your API Token is:
+
+5##################5c%%%d6@@@@d6$$$$7
+
+6.Copy this Token in
+	df = pdr.get_data_tiingo('AAPL',api_key='5##################5c%%%d6@@@@d6$$$$7') 
